@@ -1,22 +1,16 @@
-# Data Analytics Portfolio
+## 🚀 Projects
 
-Hi, I'm Achsah 👋  
-An aspiring **Data Analyst** learning Power BI, SQL, and Python.
+### 1. [Sales Performance Dashboard (Power BI)](PowerBI/sales-performance)
+Interactive dashboard analyzing sales, profit, and growth using the Superstore dataset.
 
-This repository will soon showcase my projects in **Data Analytics and Machine Learning** using:  
-- Power BI  
-- SQL  
-- Python  
-- Statistics  
+**Highlights:**
+- 📊 KPI cards (Sales, Profit, Margin %, AOV)  
+- 🛒 Product Analysis (Top 10 Products, Scatter, Matrix)  
+- 📈 Time & Trend (Monthly Sales, YoY Growth %)  
 
-## 🚀 Work in Progress  
-I am currently learning and building projects.  
+**Files in project:**
+- PDF export of dashboard
+- Screenshots (Overview, Product, Time & Trend pages)
+- PBIX file (if size permits)
 
-Soon you will find:  
-- 📊 Power BI Dashboards  
-- 🗂️ SQL Queries for analysis  
-- 🐍 Python Notebooks for EDA & ML  
-- 📈 Statistics projects  
-
-Stay tuned!  
-
+---
