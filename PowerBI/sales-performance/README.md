@@ -9,11 +9,11 @@ Interactive sales & profitability dashboard built with the Superstore dataset.
 Includes 3 pages: Overview, Product Analysis, Time & Trend.
 
 ## Files
-- `superstore.pdf` — exported report (PDF)
-- `assets/overview.png` — screenshot of Overview page
-- `assets/product.png` — screenshot of Product Analysis
-- `assets/time.png` — screenshot of Time & Trend
-- `superstore_sales.pbix` — Power BI file (if included)
+- `superstore.pdf`
+- `assets/overview.png` 
+- `assets/product.png`
+- `assets/time.png`
+- `superstore_sales.pbix`
 
 ## Key Insights
 - Total Sales ≈ 2.3M; Profit Margin ≈ 12%.  
